@@ -7,7 +7,7 @@ CREATE TABLE users (
     created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     
-
+    -- Restricción de unicidad para correo
     CONSTRAINT uq_users_email UNIQUE (email),
     
     -- Restricción de dominio: solo roles autorizados
