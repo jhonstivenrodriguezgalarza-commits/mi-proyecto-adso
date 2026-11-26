@@ -1,3 +1,11 @@
+/**
+ * =============================================================================
+ * SENA CADPH Garzón · Regional Huila
+ * Manejo Centralizado de Errores con Formato Estándar de Respuesta
+ * Archivo: server/src/middlewares/errorHandler.js
+ * =============================================================================
+ */
+
 import { STATUS_CODES } from 'node:http';
 
 /**

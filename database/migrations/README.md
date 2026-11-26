@@ -1,1 +1,1 @@
-Directorio de Migraciones
+Directorio de migracion

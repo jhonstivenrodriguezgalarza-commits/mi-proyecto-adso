@@ -1,1 +1,1 @@
-Directorio de semillas
+Directorio seends

@@ -1,1 +1,1 @@
-carpeta directorio nosql
+directorio de nosql

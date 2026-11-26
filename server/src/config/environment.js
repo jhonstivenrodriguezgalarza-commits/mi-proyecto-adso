@@ -17,7 +17,7 @@ export const config = {
     port: parseInt(process.env.PG_PORT || '5432', 10),
     database: process.env.PG_DATABASE || 'adso_polyglot_db',
     user: process.env.PG_USER || 'postgres',
-    password: process.env.PG_PASSWORD || '',
+    password: process.env.PG_PASSWORD || 'root',
     max: parseInt(process.env.PG_MAX_POOL || '10', 10),
     idleTimeoutMillis: parseInt(process.env.PG_IDLE_TIMEOUT || '30000', 10)
   },

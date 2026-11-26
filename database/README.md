@@ -1,1 +1,1 @@
-Directorio de base de datos
+Directorio Database
